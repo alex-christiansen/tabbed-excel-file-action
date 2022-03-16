@@ -1,0 +1,9 @@
+# Function dependencies, for example:
+# package>=version
+looker_sdk>=22.0.0
+requests>=2.25.1
+pandas>=1.1.4
+urllib3>=1.26.4
+xlsxwriter>=3.0.3
+google-cloud-storage>=2.2.1
+datetime>=4.4
